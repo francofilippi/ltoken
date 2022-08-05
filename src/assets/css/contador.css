@@ -1,0 +1,5 @@
+.contador{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(75px, 125px));
+    justify-content: center;
+}
